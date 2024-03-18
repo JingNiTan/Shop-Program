@@ -3,7 +3,6 @@ This program will help to calculate total amount, average, find the most expensi
 #inputs
 print("Shop Program")
 name = input("Please enter name: ")
-ID = input("Please enter staff ID: ")
 print(f"Welcome {name}!")
 #make lists
 productlist = []
